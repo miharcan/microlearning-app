@@ -19,6 +19,12 @@ It is intentionally limited to protect proprietary implementation and content IP
 License for this repository: see [LICENSE](LICENSE).
 Third-party content policy: see [Third-Party Content](docs/THIRD_PARTY_CONTENT.md).
 
+## Who This Is For
+- Students who want fast, focused learning during short free windows
+- Universities exploring digital twin-informed microlearning pilots
+- L&D and training teams validating adaptive, mobile-first learning loops
+- Research and product partners interested in timing-aware intervention systems
+
 ## Public Showcase
 ### Learn
 - Fast session entry
@@ -73,11 +79,13 @@ For the full proposal, contact: **available on request**.
 - [Public Roadmap](docs/ROADMAP_PUBLIC.md)
 - [Data Policy](docs/DATA_POLICY.md)
 - [Publishing Checklist](docs/PUBLISHING_CHECKLIST.md)
+- [Demo Media](docs/media/demo.md)
 
 ## Get in Touch / Request Access
 For collaboration, pilot programs, proposal access, or beta interest:
 - Request full proposal: see [Full Proposal Access](docs/proposal/FULL_PROPOSAL_REQUEST.md)
-- Contact channel: add your public email or form link here before publishing
+- Public contact email: `ADD_YOUR_EMAIL_HERE`
+- Public intake form: `ADD_YOUR_FORM_LINK_HERE`
 - Suggested use cases: university pilots, corporate learning pilots, investor evaluation
 
 ## Repository Scope
