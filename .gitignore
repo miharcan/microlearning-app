@@ -1,0 +1,33 @@
+# Local env
+.venv/
+.env
+.env.*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Archives and large binaries
+*.zip
+*.tar
+*.gz
+*.7z
+*.apk
+*.aab
+
+# Generated media
+*.mp4
+*.mov
+*.webm
+
+# Data artifacts
+data/
+logs/
+*.jsonl
+
+# Secrets
+*secret*
+*token*
+*key*
